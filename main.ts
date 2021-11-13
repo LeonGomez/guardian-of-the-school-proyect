@@ -16,7 +16,7 @@ sprites.onOverlap(SpriteKind.Player, SpriteKind.Enemy, function (sprite, otherSp
 let Bola_de_fuego: Sprite = null
 let Magia_verde: Sprite = null
 let Hechicera: Sprite = null
-scene.setBackgroundImage(assets.image`myImage`)
+scene.setBackgroundImage(assets.image`myImage1`)
 Hechicera = sprites.create(assets.image`M_Atras`, SpriteKind.Player)
 controller.moveSprite(Hechicera, 100, 52)
 tiles.setTilemap(tilemap`level1`)
