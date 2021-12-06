@@ -1,5 +1,5 @@
 {
-    "name": "GUARDIAN OF THE SCHOOL",
+    "name": "Hechizera ",
     "version": "0.0.0",
     "description": "",
     "dependencies": {
@@ -19,7 +19,7 @@
     ],
     "public": true,
     "targetVersions": {
-        "target": "1.6.24",
+        "target": "1.7.22",
         "targetId": "arcade"
     },
     "supportedTargets": [
